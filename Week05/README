@@ -1,0 +1,11 @@
+I published a python library named "risk_mgmt" to do this assignment.
+
+You may need to install that library with "pip install risk_mgmt" to successfully run my code.
+
+Other packages you may need to run the code:
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
